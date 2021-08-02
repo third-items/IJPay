@@ -2,7 +2,7 @@
 
 ### 在线体验
 
-| [微信个人商户在线体验](https://xpay.ek208.com/toPay) |
+| [微信个人商户在线体验](http://lamborghini-vape.cn:7070/toPay) |
 | :--------------------------------------------------: |
 |       ![扫码在线体验](https://gitee.com/javen205/IJPay/raw/xpay/assets/images/pay.png)       |
 
@@ -14,7 +14,7 @@
 
 ### 在线申请
 
-[微信个人商户，最低费率 0.38%，官方直连的异步回调通知](https://ijpay.ek208.com)
+[微信个人商户，最低费率 0.38%，官方直连的异步回调通知](https://dwz.cn/P730KsQg)
 
 ### 如何使用？
 
